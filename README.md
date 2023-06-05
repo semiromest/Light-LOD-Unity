@@ -4,9 +4,13 @@ Bu kod, ışıkların uzaklık eşiklerine göre yoğunluğunu hesaplayarak ış
 Bileşenin özellikleri şunlardır:
 
 lights: Ayarlanacak ışıkların referanslarını içeren bir dizi.
+
 distanceThresholds: Işıkların yoğunluğunu hesaplamak için kullanılacak uzaklık eşiklerinin değerlerini içeren bir dizi.
+
 intensities: Uzaklık eşiklerine göre ışık yoğunluğunu belirlemek için kullanılacak yoğunluk değerlerini içeren bir dizi.
+
 calculationInterval: Hesaplama sıklığını belirleyen bir sayacın değeri. Her calculationInterval kadar frame geçtiğinde hesaplama yapılır.
+
 
 "LightLOD" adlı bu araç, Unity oyun motorunda ışıkların uzaklık eşiklerine göre yoğunluğunu hesaplayarak ışık LOD efektini uygular. Işıkların yoğunlukları, kamera ile ışıklar arasındaki mesafe ve belirli eşik değerleri kullanılarak hesaplanır. Bu araç kullanarak oyununuzda ışıkların performansını optimize edebilir ve görsel kaliteyi iyileştirebilirsiniz.
 
