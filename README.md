@@ -16,3 +16,8 @@ Kullanımı :
 2. LightLOD scriptini bu objenin içine atın.
 3. LOD yapmak istediğiniz ışıkları listenin içine atın.
 4. Gerekli distance ve intensities değerlerini giriniz.
+
+
+Örnek Video :
+https://github.com/semiromest/Light-LOD-Unity/assets/81243425/3f1ef219-786c-49da-b874-6ce4ebd8b90f
+
